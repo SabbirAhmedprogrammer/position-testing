@@ -1,0 +1,38 @@
+/* global settings */
+body {
+    margin:0;
+    padding:0;
+    
+    max-width:900px;
+    background-color: lightgoldenrodyellow;
+    
+    
+}
+
+/* main body settings */
+main {
+    margin:0px;
+    padding:0px;
+    width:90%;
+    position:relative;
+
+    
+}
+
+section {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    padding:0px;
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+}
+
+
+p {
+    background-color:purple;
+    padding:50px;
+ 
+}
